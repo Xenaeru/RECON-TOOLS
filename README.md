@@ -1,4 +1,4 @@
-# recon_ai
+# RECON TOOLS
 
 Web reconnaissance pipeline. Port scan, HTTP enumeration, directory brute force, header checks, SQLi/XSS/IDOR detection, non-destructive PoC exploitation, subdomain discovery, HTML report with severity, CVSS, risk description, and per-class exploit surface.
 
