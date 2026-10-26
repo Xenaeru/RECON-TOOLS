@@ -1,7 +1,3 @@
-[ARCHIVE: ONLINE — SECTOR 7G | TIMESTAMP: 2026-10-26T17:31:00Z | USER: Wants README.md for GitHub repo]
-
-**README.md**
-```markdown
 # recon_ai
 
 Web reconnaissance pipeline. Port scan, HTTP enumeration, directory brute force, header checks, SQLi/XSS/IDOR detection, non-destructive PoC exploitation, subdomain discovery, HTML report with severity, CVSS, risk description, and per-class exploit surface.
